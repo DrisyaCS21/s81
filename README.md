@@ -1,1 +1,5 @@
-# s81
+Educational Resource Hub Application 
+
+*HTML
+*CSS
+*JS
